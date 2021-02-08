@@ -1,4 +1,4 @@
-program EnumArrayvsEnumSet;
+﻿program EnumArrayvsEnumSet;
 
 {$APPTYPE CONSOLE}
 {$R *.res}
